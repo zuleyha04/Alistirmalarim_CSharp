@@ -1,0 +1,14 @@
+D:\c_projeler\NotHesaplama\NotHesaplama\bin\Debug\net8.0\NotHesaplama.exe
+D:\c_projeler\NotHesaplama\NotHesaplama\bin\Debug\net8.0\NotHesaplama.deps.json
+D:\c_projeler\NotHesaplama\NotHesaplama\bin\Debug\net8.0\NotHesaplama.runtimeconfig.json
+D:\c_projeler\NotHesaplama\NotHesaplama\bin\Debug\net8.0\NotHesaplama.dll
+D:\c_projeler\NotHesaplama\NotHesaplama\bin\Debug\net8.0\NotHesaplama.pdb
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.AssemblyInfoInputs.cache
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.AssemblyInfo.cs
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.csproj.CoreCompileInputs.cache
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.dll
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\refint\NotHesaplama.dll
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.pdb
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\NotHesaplama.genruntimeconfig.cache
+D:\c_projeler\NotHesaplama\NotHesaplama\obj\Debug\net8.0\ref\NotHesaplama.dll
