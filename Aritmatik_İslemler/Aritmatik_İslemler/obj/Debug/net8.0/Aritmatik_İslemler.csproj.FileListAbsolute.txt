@@ -1,0 +1,14 @@
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\bin\Debug\net8.0\Aritmatik_İslemler.exe
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\bin\Debug\net8.0\Aritmatik_İslemler.deps.json
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\bin\Debug\net8.0\Aritmatik_İslemler.runtimeconfig.json
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\bin\Debug\net8.0\Aritmatik_İslemler.dll
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\bin\Debug\net8.0\Aritmatik_İslemler.pdb
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.AssemblyInfoInputs.cache
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.AssemblyInfo.cs
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.csproj.CoreCompileInputs.cache
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.dll
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\refint\Aritmatik_İslemler.dll
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.pdb
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\Aritmatik_İslemler.genruntimeconfig.cache
+D:\c_projeler\Aritmatik_İslemler\Aritmatik_İslemler\obj\Debug\net8.0\ref\Aritmatik_İslemler.dll
