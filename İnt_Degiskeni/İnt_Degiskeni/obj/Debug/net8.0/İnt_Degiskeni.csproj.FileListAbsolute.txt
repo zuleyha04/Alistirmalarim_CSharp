@@ -1,0 +1,14 @@
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\bin\Debug\net8.0\İnt_Degiskeni.exe
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\bin\Debug\net8.0\İnt_Degiskeni.deps.json
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\bin\Debug\net8.0\İnt_Degiskeni.runtimeconfig.json
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\bin\Debug\net8.0\İnt_Degiskeni.dll
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\bin\Debug\net8.0\İnt_Degiskeni.pdb
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.AssemblyInfoInputs.cache
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.AssemblyInfo.cs
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.csproj.CoreCompileInputs.cache
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.dll
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\refint\İnt_Degiskeni.dll
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.pdb
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\İnt_Degiskeni.genruntimeconfig.cache
+D:\c_projeler\İnt_Degiskeni\İnt_Degiskeni\obj\Debug\net8.0\ref\İnt_Degiskeni.dll
