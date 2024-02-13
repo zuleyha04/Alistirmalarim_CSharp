@@ -1,0 +1,14 @@
+D:\c_projeler\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+D:\c_projeler\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+D:\c_projeler\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+D:\c_projeler\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+D:\c_projeler\SwitchCase\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+D:\c_projeler\SwitchCase\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
