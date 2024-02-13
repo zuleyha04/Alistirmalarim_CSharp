@@ -1,0 +1,14 @@
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfoInputs.cache
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfo.cs
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.csproj.CoreCompileInputs.cache
+D:\c_projeler\KararYapilari\KararYapilari\bin\Debug\net8.0\KararYapilari.exe
+D:\c_projeler\KararYapilari\KararYapilari\bin\Debug\net8.0\KararYapilari.deps.json
+D:\c_projeler\KararYapilari\KararYapilari\bin\Debug\net8.0\KararYapilari.runtimeconfig.json
+D:\c_projeler\KararYapilari\KararYapilari\bin\Debug\net8.0\KararYapilari.dll
+D:\c_projeler\KararYapilari\KararYapilari\bin\Debug\net8.0\KararYapilari.pdb
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.dll
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\refint\KararYapilari.dll
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.pdb
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\KararYapilari.genruntimeconfig.cache
+D:\c_projeler\KararYapilari\KararYapilari\obj\Debug\net8.0\ref\KararYapilari.dll
