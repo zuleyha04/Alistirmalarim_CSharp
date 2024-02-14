@@ -1,0 +1,14 @@
+D:\c_projeler\Donguler_2\Donguler_2\bin\Debug\net8.0\Donguler_2.exe
+D:\c_projeler\Donguler_2\Donguler_2\bin\Debug\net8.0\Donguler_2.deps.json
+D:\c_projeler\Donguler_2\Donguler_2\bin\Debug\net8.0\Donguler_2.runtimeconfig.json
+D:\c_projeler\Donguler_2\Donguler_2\bin\Debug\net8.0\Donguler_2.dll
+D:\c_projeler\Donguler_2\Donguler_2\bin\Debug\net8.0\Donguler_2.pdb
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.AssemblyInfoInputs.cache
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.AssemblyInfo.cs
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.csproj.CoreCompileInputs.cache
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.dll
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\refint\Donguler_2.dll
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.pdb
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\Donguler_2.genruntimeconfig.cache
+D:\c_projeler\Donguler_2\Donguler_2\obj\Debug\net8.0\ref\Donguler_2.dll
