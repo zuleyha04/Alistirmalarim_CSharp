@@ -1,0 +1,14 @@
+D:\c_projeler\Diziler_1\Diziler_1\bin\Debug\net8.0\Diziler_1.exe
+D:\c_projeler\Diziler_1\Diziler_1\bin\Debug\net8.0\Diziler_1.deps.json
+D:\c_projeler\Diziler_1\Diziler_1\bin\Debug\net8.0\Diziler_1.runtimeconfig.json
+D:\c_projeler\Diziler_1\Diziler_1\bin\Debug\net8.0\Diziler_1.dll
+D:\c_projeler\Diziler_1\Diziler_1\bin\Debug\net8.0\Diziler_1.pdb
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.AssemblyInfoInputs.cache
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.AssemblyInfo.cs
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.csproj.CoreCompileInputs.cache
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.dll
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\refint\Diziler_1.dll
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.pdb
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\Diziler_1.genruntimeconfig.cache
+D:\c_projeler\Diziler_1\Diziler_1\obj\Debug\net8.0\ref\Diziler_1.dll
