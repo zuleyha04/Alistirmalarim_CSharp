@@ -1,0 +1,14 @@
+D:\c_projeler\Diziler_3\Diziler_3\bin\Debug\net8.0\Diziler_3.exe
+D:\c_projeler\Diziler_3\Diziler_3\bin\Debug\net8.0\Diziler_3.deps.json
+D:\c_projeler\Diziler_3\Diziler_3\bin\Debug\net8.0\Diziler_3.runtimeconfig.json
+D:\c_projeler\Diziler_3\Diziler_3\bin\Debug\net8.0\Diziler_3.dll
+D:\c_projeler\Diziler_3\Diziler_3\bin\Debug\net8.0\Diziler_3.pdb
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.AssemblyInfoInputs.cache
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.AssemblyInfo.cs
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.csproj.CoreCompileInputs.cache
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.dll
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\refint\Diziler_3.dll
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.pdb
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\Diziler_3.genruntimeconfig.cache
+D:\c_projeler\Diziler_3\Diziler_3\obj\Debug\net8.0\ref\Diziler_3.dll
